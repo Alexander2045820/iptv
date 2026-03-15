@@ -1,0 +1,583 @@
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
+
+
+
+#EXTINF:-1  tvg-id="flixsnip"  tvg-logo="https://iptvx.one/picons/flixsnip.png"   audio-track="rus",FlixSnipᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1  tvg-id="plan-b"  tvg-logo="http://epg.one/img2/6643.png"   audio-track="rus", Plan_B
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1  tvg-id="illuzion-plus"   audio-track="rus",ИЛЛЮЗИОН+ HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:-1  tvg-id="kinosat"  tvg-logo="https://logo.pp.ru/storage/images/channels/1c29daa1a6eeb5a05a26aa42415625db.png?d=1728412464"   audio-track="rus",Киноман
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1  tvg-id="lubimoe-kino"   audio-track="rus",Любимое Кино
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv21m"  tvg-logo="https://logo.pp.ru/storage/images/channels/212f6d8476b4f339d0b586b3fd8433a9.png?d=1752573176"   audio-track="rus",ТВ21M
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv1000"   audio-track="rus",viju TV1000 HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-action"   audio-track="rus",viju TV1000 Action HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-comedy"   audio-track="rus",viju+ Comedy HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-megahit"   audio-track="rus",viju+ Megahit HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-premiere" ,viju+ Premiere HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:-1  tvg-id="sony-tv"   audio-track="rus",.red
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1  tvg-id="sony-scifi"   audio-track="rus",.sci-fi
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1  tvg-id="fox"   audio-track="rus",FXᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1  tvg-id="foxlife"   audio-track="rus",FX Lifeᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1  tvg-id="dorama"   audio-track="rus", Дорама
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1  tvg-id="timeless-dizi"  tvg-logo="https://iptvx.one/picons/timeless-dizi.png" ,Timeless Dizi Channelᴴᴰ
+#EXTGRP:188.225 💥
+http://193.27.209.122/dizi/index.m3u8?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-id="start-air"  tvg-logo="https://iptvx.one/picons/start-air.png"   audio-track="rus",Start Airᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1  tvg-id="start-world"  tvg-logo="https://iptvx.one/picons/start-world.png"   audio-track="rus",Start Worldᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1  tvg-id="mir-seriala" ,Мир Сериала
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:-1  tvg-id="animal-planet-eu"   audio-track="rus",Animal Planetᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1  tvg-id="nat-geo-wild"   audio-track="rus",Nat Geo Wild SD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:-1  tvg-id="big-planet"  tvg-logo="https://iptvx.one/picons/big-planet.png"   audio-track="rus",Big Planetᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:-1  tvg-id="national-geographic" ,National Geographicᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1  tvg-id="terra-ru"   audio-track="rus",TERRAᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1  tvg-id="glazami-turista"  tvg-logo="http://1lot.tv/ch/0252.png"   audio-track="rus",Глазами Туристаᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1  tvg-id="nasha-tema"   audio-track="rus",Наша Тема
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:-1  tvg-id="discovery-channel"   audio-track="rus",Discovery Channelᴴᴰ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1  tvg-id="eda-hd-int"  tvg-logo="https://iptvx.one/picons/eda-hd-int.png"   audio-track="rus",Еда Премиум Int. HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1  tvg-id="voprosy-i-otvety"   audio-track="rus",Вопросы и ответы
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1  tvg-id="nick-jr" ,Nick Jr
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:-1  tvg-id="tiji" ,TiJi
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
+#EXTINF:-1  tvg-id="vremia" ,Время
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1  tvg-id="dialogi-o-rybalke" ,Диалоги о Рыбалке
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1  tvg-id="zagorodnaya-zhizn" ,Загородная жизнь HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:-1  tvg-id="zdorovoe-tv" ,Здоровое ТВ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:-1  tvg-id="zal-suda"  tvg-logo="https://iptvx.one/picons/zal-suda.png" ,Зал суда
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1  tvg-id="mir-uvlecheniy" ,Кто Куда
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:-1  tvg-id="oruzhie" ,Оружие
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:-1  tvg-id="poexali" ,Поехали!
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1  tvg-id="rybalka-i-oxota" ,Рыбалка и охота
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1  tvg-id="tochka-otryva" ,Точка отрыва
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:-1  tvg-id="avto24" ,АВТО 24
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1 ,МОДА
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1  tvg-id="appetitny"  tvg-logo="https://iptvx.one/picons/appetitny.png" ,Аппетитный
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
+#EXTINF:-1  tvg-id="detsky" ,Уникум
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
+#EXTINF:-1  tvg-id="cartoon-network" ,Cartoon Network
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
+#EXTINF:-1  tvg-id="boomerang" ,Cartoonito
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1  tvg-id="nickelodeon-ru" ,Nickelodeon
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:-1  tvg-id="nicktoons" ,Nicktoons
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1  tvg-id="detsky-mir" ,Детский мир
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1  tvg-id="mult" ,Мульт
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
+#EXTINF:-1  tvg-id="multimania" ,Мультиландия
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1  tvg-id="bobior" ,Бобер
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1  tvg-id="liova"  tvg-logo="https://iptvx.one/picons/liova.png" ,Лёва
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1  tvg-id="lapki-live"  tvg-logo="https://iptvx.one/picons/lapki-live.png" ,Лапки Live
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
+#EXTINF:-1  tvg-id="mezzo" ,Mezzo
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1  tvg-id="trace-urban"  tvg-logo="https://iptvx.one/picons/trace-urban.png" ,Trace Urban HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
+#EXTINF:-1  tvg-id="shanson-tv" ,Шансон ТВ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
+#EXTINF:-1  tvg-id="muzyka-pervogo" ,Музыка Первого
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
+#EXTINF:-1  tvg-id="mcm-top" ,MCM Top
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1  tvg-id="1hd" ,1HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1  tvg-id="da-vinci" ,Da Vinci
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1  tvg-id="history"  tvg-logo="https://iptvx.one/picons/history.png" ,History HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1  tvg-id="viasat-explore" ,Viasat Explore HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:-1  tvg-id="viasat-nature" ,Viasat Nature HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:-1  tvg-id="viasat-history" ,Visast History HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:-1  tvg-id="zhivaya-priroda" ,Живая природа HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:-1  tvg-id="domashnie-zhivotnye" ,Домашние животные
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1  tvg-id="zoopark" ,Зоопарк
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:-1  tvg-id="galaxy-tv" ,Тайны галактики HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1  tvg-id="moya-planeta" ,Планета HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:-1  tvg-id="sony-turbo" ,.Black
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:-1  tvg-id="gags-network"  tvg-logo="https://iptvx.one/picons/gags-network.png" ,Gags Network
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:-1  tvg-id="anekdottv" ,Анекдот ТВ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:-1  tvg-id="telekafe" ,Телекафе
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:-1  tvg-id="o_" ,О!
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1  tvg-id="nst" ,НСТ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:-1  tvg-id="nowy-igrowoj"  tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" ,Новый игровой канал
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1  tvg-id="trashtv" ,Trash HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
+#EXTINF:-1  tvg-id="viasat-sport" ,viju+ Sport
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1  tvg-id="eurosport1" ,Eurosport 1 HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1  tvg-id="eurosport2" ,Eurosport 2 HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1  tvg-id="setanta-sports" ,Setanta Sports 1 HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1  tvg-id="setanta-sports-plus" ,Setanta Sports 2 HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1  tvg-id="trace-sport-stars"  tvg-logo="https://i.imgur.com/FabFP5A.png" ,Trace Sport Stars HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:-1  tvg-id="ufc" ,Удар HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1  tvg-id="amedia1" ,Amedia 1 HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1  tvg-id="amedia2" ,Amedia 2
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1  tvg-id="amedia-hit" ,Amedia HiT HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1  tvg-id="amedia-premium" ,Amedia Premium HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:-1  tvg-id="cinema-ru" ,Cinema
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
+#EXTINF:-1  tvg-id="hollywood" ,Hollywood
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino" ,TV1000 Русское
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-serial" ,Viju+ Serial HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1  tvg-id="domkino" ,Дом кино
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1  tvg-id="domkino-premium" ,Дом кино Premium HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1  tvg-id="evrokino" ,Еврокино
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1  tvg-id="kineko" ,Кинеко HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1  tvg-id="pobeda" ,Победа
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1  tvg-id="mosfilm" ,Мосфильм. Золотая коллекция
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1  tvg-id="russky-illuzion" ,Русский Иллюзион
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:-1  tvg-id="feniks-plus-kino" ,Феникс+Кино
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1  tvg-id="muzhskoy" ,Мужской
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1  tvg-id="kluch" ,Ключ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1  tvg-id="8kanal-ru" ,8 канал
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
+#EXTINF:-1  tvg-id="bollywood-hd" ,Bollywood HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+#EXTINF:-1  tvg-id="texno-24" ,Т24
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1  tvg-id="romance"  tvg-logo="https://iptvx.one/picons/romance.png"   tvg-name="Romance",Romance
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1  tvg-id="suspense"  tvg-logo="https://iptvx.one/picons/suspense.png"   tvg-name="Suspense",Suspense
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1  tvg-id="narod-vsio-vidit"  tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png"   tvg-name="Народ Всё Видит",Народ Всё Видит
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1  tvg-id="cartoon-classics"  tvg-logo="https://iptvx.one/picons/cartoon-classics.png"   tvg-name="Cartoon Classics",Cartoon Classics
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008795/tve/index.m3u8
+#EXTINF:-1  tvg-id="v-gostiax-u-skazki"  tvg-logo="http://epg.one/img2/2027.png"   tvg-name="В гостях у сказки HD",В гостях у сказки
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002762/tve/index.m3u8
+#EXTINF:-1  tvg-id="tvcentr"   logo="https://i.ibb.co/8bXhH0G/tvc.png" channelId="8",ТВЦ HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:-1  tvg-id="tnt"   logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" channelId="17",ТНТ HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
+#EXTINF:-1  tvg-id="tnt4"   logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" channelId="19",ТНТ4
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1  tvg-id="bbc" ,BBC World News
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000014/tve/index.m3u8
+#EXTINF:-1  tvg-id="cnn" ,CNN International
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000707/tve/index.m3u8
+#EXTINF:-1  tvg-id="euronews"  tvg-logo="http://epg.one/img2/2266.png"   tvg-name="Euronews",EuroNews Ru
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
+#EXTINF:-1  tvg-id="euronews-en" ,Euronews HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002455/tve/index.m3u8
+#EXTINF:-1  tvg-id="belarus24"  tvg-logo="https://iptvx.one/picons/belarus24.png" ,Беларусь 24 HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000360/tve/index.m3u8
+#EXTINF:-1  tvg-id="gulli-girl" ,Gulli Girl
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1  tvg-id="tlc" ,TLC HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
+#EXTINF:-1  tvg-id="womens-magazine"  tvg-logo="https://iptvx.one/picons/womens-magazine.png" ,Женский Журнал HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008065/tve/index.m3u8
+#EXTINF:-1  tvg-id="perec-int"  tvg-logo="https://iptvx.one/picons/perec-int.png" ,Перец Int
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1  tvg-id="rentv" ,Рен ТВ
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:-1  tvg-id="sts-kids-hd" ,СТС Kids
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
+#EXTINF:-1  tvg-id="teleputeshestvia" ,Телепутешествия HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000277/tve/index.m3u8
+#EXTINF:-1  tvg-id="spas" ,Спас
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000247/tve/index.m3u8
+#EXTINF:-1  tvg-id="karusel-int"  tvg-logo="https://iptvx.one/picons/karusel.png" ,Карусель International
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
+#EXTINF:-1  tvg-id="sts-int"  tvg-logo="https://iptvx.one/picons/sts-int.png" ,СТС International
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1  tvg-id="domashny-int"  tvg-logo="https://iptvx.one/picons/domashny-int.png" ,Домашний International
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:-1  tvg-id="piatnica-int"  tvg-logo="https://iptvx.one/picons/piatnica-int.png" ,Пятница International
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv3-int"  tvg-logo="https://iptvx.one/picons/tv3-int.png" ,ТВ3 International
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:-1  tvg-id="pervy-kanal-eurasia-kz"  tvg-logo="http://epg.one/img2/2571.png"   tvg-name="Первый канал Евразия",Первый канал Евразия 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
+#EXTINF:-1  tvg-id="5kanal-karaganda"  tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png" ,5 канал (Караганда) 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000950/tve/index.m3u8
+#EXTINF:-1  tvg-id="7kanal-kz"  tvg-logo="https://iptvx.one/picons/7kanal-kz.png" ,7 Канал 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:-1  tvg-id="xabar24" ,24 KZ HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000005177/tve/index.m3u8
+#EXTINF:-1  tvg-id="31-kanal-kz" ,31 Канал HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:-1  tvg-id="77tv-kz"  tvg-logo="https://iptvx.one/picons/77tv-kz.png" ,77 TV 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002851/tve/index.m3u8
+#EXTINF:-1  tvg-id="xabar" ,Хабар HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004211/tve/index.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТК HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:-1  tvg-id="almaty" ,Almaty TV 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
+#EXTINF:-1  tvg-id="kazakhstan" ,Qazaqstan HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:-1  tvg-id="altai-kz"  tvg-logo="https://iptvx.one/picons/altai-kz.png" ,Altai 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001572/tve/index.m3u8
+#EXTINF:-1  tvg-id="atyray"  tvg-logo="https://iptvx.one/picons/atyray.png" ,Atyray 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001570/tve/index.m3u8
+#EXTINF:-1  tvg-id="ertis" ,Ertis 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003248/tve/index.m3u8
+#EXTINF:-1  tvg-id="jambyl-kz"  tvg-logo="https://iptvx.one/picons/jambyl-kz.png" ,Jambyl 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:-1 ,Kokshe 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003021/tve/index.m3u8
+#EXTINF:-1 ,Mangystay 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003247/tve/index.m3u8
+#EXTINF:-1 ,Ontustik 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003251/tve/index.m3u8
+#EXTINF:-1  tvg-id="qostanai-kz"  tvg-logo="https://iptvx.one/picons/qostanai-kz.png" ,Qostanai 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001521/tve/index.m3u8
+#EXTINF:-1  tvg-id="qyzylorda-kz"  tvg-logo="https://iptvx.one/picons/qyzylorda-kz.png" ,Qyzylorda 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003246/tve/index.m3u8
+#EXTINF:-1  tvg-id="qyzyljar"  tvg-logo="https://iptvx.one/picons/qyzyljar.png" ,Qyzyljar 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003249/tve/index.m3u8
+#EXTINF:-1  tvg-id="semei"  tvg-logo="https://iptvx.one/picons/semei.png" ,Semei 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003250/tve/index.m3u8
+#EXTINF:-1  tvg-id="saryarqa"  tvg-logo="https://iptvx.one/picons/saryarqa.png" ,Saryarqa 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003146/tve/index.m3u8
+#EXTINF:-1  tvg-id="abaitv"  tvg-logo="https://iptvx.one/picons/abaitv.png" ,Abai TV 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-kino-hit"  tvg-logo="https://iptvx.one/picons/q-kino-hit.png" ,Кинодрама HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-kino-alem"  tvg-logo="https://iptvx.one/picons/q-kino-alem.png" ,Киносериал HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
+#EXTINF:-1  tvg-id="atameken-business"  tvg-logo="https://iptvx.one/picons/atameken-business.png" ,Atameken Business 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000005322/tve/index.m3u8
+#EXTINF:-1  tvg-id="balapan"  tvg-logo="https://iptvx.one/picons/balapan.png" ,Balapan 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1  tvg-id="kazakh-tv" ,Jibek Joly HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000941/tve/index.m3u8
+#EXTINF:-1 ,Gakku TV 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001383/tve/index.m3u8
+#EXTINF:-1  tvg-id="otyrar-tv"  tvg-logo="https://iptvx.one/picons/otyrar-tv.png" ,ОTYRAR 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001052/tve/index.m3u8
+#EXTINF:-1  tvg-id="turkistan" ,TURKISTAN TV 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007248/tve/index.m3u8
+#EXTINF:-1  tvg-id="tvoyo-tv-kz"  tvg-logo="https://iptvx.one/picons/tvoyo-tv-kz.png" ,Твоё ТВ 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1  tvg-id="show-kz"  tvg-logo="https://iptvx.one/picons/show-kz.png" ,SHOW KZ HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008944/tve/index.m3u8
+#EXTINF:-1 ,Turan TV 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001404/tve/index.m3u8
+#EXTINF:-1  tvg-id="ulytau-kz"  tvg-logo="https://iptvx.one/picons/ulytau-kz.png" ,Ulytau HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003604/tve/index.m3u8
+#EXTINF:-1  tvg-id="alautv"  tvg-logo="https://iptvx.one/picons/alautv.png" ,Алау ТВ 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001511/tve/index.m3u8
+#EXTINF:-1  tvg-id="irbis"  tvg-logo="https://iptvx.one/picons/irbis.png" ,Ирбис 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
+#EXTINF:-1  tvg-id="rika"  tvg-logo="https://iptvx.one/picons/rika.png" ,РИКА-ТВ 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:-1 ,Jetisy HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001458/tve/index.m3u8
+#EXTINF:-1 ,Айfак 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001510/tve/index.m3u8
+#EXTINF:-1  tvg-id="qsport-kz"  tvg-logo="https://i.imgur.com/UDJ0P5Q.png" ,Qazsport HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:-1  tvg-id="setanta-kz" ,Setanta Sports KZ HD 🇰🇿 
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:-1  tvg-id="sport-plus-kz"  tvg-logo="https://iptvx.one/picons/sport-plus-kz.png" ,Sport+ HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-football-kz"  tvg-logo="https://iptvx.one/picons/q-football-kz.png" ,Q Football HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
+#EXTINF:-1  tvg-id="qsport-kz"  tvg-logo="http://epg.one/img2/5891.png"   tvg-name="Q Sport Arena HD 🇰🇿",Q Sport Arena HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000007615/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-sport-ext"  tvg-logo="http://epg.one/img2/7236.png"   tvg-name="Q League HD 🇰🇿",Q Sport League HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000006969/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-live1-kz"  tvg-logo="https://iptvx.one/picons/q-live1-kz.png" ,Q Live 1 HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008725/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-live2-kz"  tvg-logo="https://iptvx.one/picons/q-live2-kz.png" ,Q Live 2 HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008726/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-live3-kz"  tvg-logo="https://iptvx.one/picons/q-live3-kz.png" ,Q Live 3 HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008445/tve/index.m3u8
+#EXTINF:-1  tvg-id="q-live4-kz"  tvg-logo="https://iptvx.one/picons/q-live4-kz.png" ,Q Live 4 HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000008727/tve/index.m3u8
+#EXTINF:-1  tvg-id="toy-duman"  tvg-logo="https://iptvx.one/picons/toy-duman.png" ,Той Думан 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002936/tve/index.m3u8
+#EXTINF:-1  tvg-id="novoe-televidenie"  tvg-logo="https://iptvx.one/picons/novoe-televidenie.png" ,Новое Телевидение SD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:-1  tvg-id="hit-tv"  tvg-logo="https://iptvx.one/picons/hit-tv.png" ,HIT TV 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1  tvg-id="muzzone"  tvg-logo="https://i.imgur.com/nHVABXh.png" ,Muzzone HD 🇰🇿
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1  tvg-id="english-club-tv" ,English Club TV HD
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
+#EXTINF:-1  tvg-id="ntv-serial"   tvg-name="НТВ Сериал",НТВ-Сериал
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002760/tve/index.m3u8
+#EXTINF:-1  tvg-id="ntv-pravo"   tvg-name="НТВ Право",НТВ-Право
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002759/tve/index.m3u8
+#EXTINF:-1  tvg-id="ntv-style"   tvg-name="НТВ Стиль",НТВ-Стиль
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000002761/tve/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DTtK0z7.png" ,Россия РТР
+#EXTGRP:188.225 💥
+http://188.225.31.197/bpk-tv/000000812/tve/index.m3u8

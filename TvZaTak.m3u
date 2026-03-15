@@ -1,0 +1,124 @@
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
+
+
+
+#EXTINF:-1  tvg-id="9kanal-israel"  tvg-logo="http://epg.one/img2/2672.png" ,9 канал (Израиль) HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/ORYpTuESTi/cnb0y9n3633wb3wnppri4wg6?
+#EXTINF:-1  tvg-id="the-explorers"  tvg-logo="http://epg.one/img2/9082.png"   tvg-name="The Explorers HD",The Explorers HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/frJLfelw49jsd/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="premierehd1"  tvg-logo="https://iptvx.one/picons/premierehd1.png"   tvg-name="Premiere HD 1",Premiere HD 1
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/STICIPLiCH/cnb0y9n3633wb3wnppri4wg6?
+#EXTINF:-1  tvg-id="premierehd2"  tvg-logo="https://iptvx.one/picons/premierehd2.png"   tvg-name="Premiere HD 2",Premiere HD 2
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/AnghtenSid/cnb0y9n3633wb3wnppri4wg6?
+#EXTINF:-1  tvg-id="premierehd3"  tvg-logo="https://iptvx.one/picons/premierehd3.png"   tvg-name="Premiere HD 3",Premiere HD 3
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/erTonalter/cnb0y9n3633wb3wnppri4wg6?
+#EXTINF:-1  tvg-id="premierehd4"  tvg-logo="https://iptvx.one/picons/premierehd4.png"   tvg-name="Premiere HD 4",Premiere HD 4
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/loPALumlOf/cnb0y9n3633wb3wnppri4wg6?
+#EXTINF:-1  tvg-logo="http://epg.one/img2/107.png" ,MYTV HIT
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
+#EXTINF:-1  tvg-id="tv1000-worldkino"  tvg-logo="http://epg.one/img2/8883.png"   tvg-name="Viasat Kino World HD",Viasat Kino World HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/jrD2gZBF9p/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="kvartal-tv"  tvg-logo="https://iptvx.one/picons/kvartal-tv.png" ,KVARTAL TV HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/TDK/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="kinokazka"  tvg-logo="http://epg.one/img2/9092.png" ,Kinokazka HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/77E5xf6HuK/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="nashe-lubimoe-hd"  tvg-logo="http://epg.one/img2/2509.png" ,Любимое HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/Zj1C4RZR4r/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="rentv"  tvg-logo="http://list.8v8i8p.com/img/channel_icons/125.png" ,Рен ТВ HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/vg3lnfnbr0/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="5kanal-ru"  tvg-logo="https://iptvx.one/picons/5kanal-ru.png" ,Пятый канал HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/5Kanal/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="hollywood"  tvg-logo="http://epg.one/img2/934.png" ,Hollywood HD
+#EXTGRP:TvZaTak 📼
+https://tinyurl.com/45x3xrpm/chid421/mpegts
+#EXTINF:-1  tvg-id="filmbox-arthouse"  tvg-logo="http://epg.one/img2/2182.png" ,FilmBox Arthouse HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/FilmBoxArthouse/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="bollywood-hd"  tvg-logo="http://epg.one/img2/1395.png"   tvg-name="Bollywood HD",Bollywood HD
+#EXTGRP:TvZaTak 📼
+https://tinyurl.com/45x3xrpm/chid420/mpegts
+#EXTINF:-1  tvg-id="amedia-hit"  tvg-logo="http://epg.one/img2/2007.png" ,Amedia Hit HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/AMEDIAHITHD/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="star-family"  tvg-logo="http://epg.one/img2/9162.png" ,Star Family HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/AchROSibrA/cnb0y9n3633wb3wnppri4wg6?
+#EXTINF:-1  tvg-id="lavstori-hd"  tvg-logo="https://iptvx.one/picons/lavstori-hd.png"   tvg-name="Лавстори HD",Лавстори HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/jkvfdjhwj4jr/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="vip-serial"  tvg-logo="http://epg.one/img2/2838.png" ,Viju+ Serial HD
+#EXTGRP:TvZaTak 📼
+https://tinyurl.com/45x3xrpm/chid40/mpegts
+#EXTINF:-1  tvg-id="denpobedy"  tvg-logo="http://epg.one/img2/2773.png"   tvg-name="День победы HD",День победы HD
+#EXTGRP:TvZaTak 📼
+https://tinyurl.com/45x3xrpm/chid168/mpegts
+#EXTINF:-1  tvg-id="strashnoe-hd"  tvg-logo="http://epg.one/img2/2857.png" ,Страшное HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/iRqZkZdRpP/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="kriminalnoe-hd"  tvg-logo="http://epg.one/img2/7844.png"   tvg-name="Криминальное HD",Криминальное HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/uGHTenTRin/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="hd-life"  tvg-logo="http://i124.fastpic.org/big/2025/0313/9a/180bb242388d3cf212bc947e0f32909a.png"   tvg-name="Точка РФ HD",Точка РФ HD
+#EXTGRP:TvZaTak 📼
+https://tinyurl.com/45x3xrpm/chid431/mpegts
+#EXTINF:-1  tvg-id="h2"  tvg-logo="http://epg.one/img2/2356.png"   tvg-name="H2 HD",H2 HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/h2hd/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="viasat-nature-history-hd"  tvg-logo="http://epg.one/img2/2012.png"   tvg-name="Viju+ Planet HD",Viju+ Planet HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/ViasatNatureHistoryHD/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="travel-channel"  tvg-logo="https://iptvx.one/picons/travel-channel.png" ,Travel Channel HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/TravelChannelEurope/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="morskoy"  tvg-logo="http://epg.one/img2/2028.png"   tvg-name="Моя стихия",Моя стихия HD
+#EXTGRP:TvZaTak 📼
+https://tinyurl.com/45x3xrpm/chid430/mpegts
+#EXTINF:-1  tvg-id="psixologia-21"  tvg-logo="http://epg.one/img2/2450.png" ,Психология
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/Psihologia21/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="pervy-vegetariansky"  tvg-logo="http://epg.one/img2/2292.png"   tvg-name="Первый вегетарианский",Первый вегетарианский HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/vd2v9G3DU4/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="HGTV HD"  tvg-logo="http://epg.one/img2/2377.png" ,HGTV HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/RlOsTiOuRe/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="oxotnik-i-rybolov"   tvg-name="Рыболов",Рыболов
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/423kdeWxcX/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="dikaya-oxota-hd"  tvg-logo="http://epg.one/img2/2483.png"   tvg-name="Дикая охота HD",Дикая охота HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/DikayaOkhotaHD/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="dikaya-rybalka-hd"  tvg-logo="http://epg.one/img2/2484.png"   tvg-name="Дикая рыбалка HD",Дикая рыбалка HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/KtT5WilF3w/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="dikiy"  tvg-logo="http://epg.one/img2/2283.png"   tvg-name="Дикий",Дикий
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/Dikiy/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="nicktoons"  tvg-logo="http://epg.one/img2/2994.png"   tvg-name="Nicktoons HD",Nicktoons HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/rTImaSIOCk/cnb0y9n3633wb3wnppri4wg6?
+#EXTINF:-1  tvg-id="ufc" ,UDAR HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/iLEymeNESM/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="footbolny"  tvg-logo="http://epg.one/img2/4679.png" ,Мяч HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/UrNIGHtEry/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="xokkejny"  tvg-logo="http://epg.one/img2/4605.png"   tvg-name="Хоккей ТВ HD",Хоккей ТВ HD
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/OClAyughth/cnb0y9n3633wb3wnppri4wg6
+#EXTINF:-1  tvg-id="setanta-kz"  tvg-logo="http://epg.one/img2/2630.png"   tvg-name="Setanta Qazaqstan HD 🇰🇿",Setanta Qazaqstan HD 🇰🇿
+#EXTGRP:TvZaTak 📼
+http://tinyurl.com/TvZaTak31/icHYPTiCAG/cnb0y9n3633wb3wnppri4wg6
