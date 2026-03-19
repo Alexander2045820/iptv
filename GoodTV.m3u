@@ -80,7 +80,7 @@ http://cdn.kubteltv.workers.dev/?ID=19
 http://cdn.kubteltv.workers.dev/?ID=20
 
 
-#EXTINF:-1 group-title="Новости", 360° Новости HD
+#EXTINF:-1 group-title="Новости", 360° Новости 
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Новости", Беларусь 24
@@ -92,32 +92,18 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Новости", Мир 24 HD
+#EXTINF:-1 group-title="Новости", Мир 24 
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Новости", Москва 24
 http://194.32.242.245/moskva24/index.m3u8
 
-#EXTINF:-1 group-title="Новости", Москва. Доверие
-http://178.212.71.253:8000/play/53/index.m3u8
-
-#EXTINF:-1 tvg-id="novy-vek-tambov" catchup="append" tvg-logo="https://telebegun.ru/uploads/channels/noviy-vek-tambov.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Новый век (Тамбов)
-#EXTVLCOPT:http-user-agent=SmartTV
-http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
-
-#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Новости",Новый Век HD (Тамбов)
+#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Новости",Новый Век
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lipeckoe-vremia" catchup="append" tvg-logo="https://i.ibb.co/C6dNcxv/Lipeckoe-vremya-256x256.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Липецкое время HD
+#EXTINF:-1 tvg-id="lipeckoe-vremia" catchup="append" tvg-logo="https://i.ibb.co/C6dNcxv/Lipeckoe-vremya-256x256.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Липецкое время 
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-
-#EXTINF:-1 tvg-id="prodvizhenie" catchup="append" tvg-logo="https://www.cableman.ru/sites/default/files/prodvizhenie.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Продвижение (Тамбов)
-#EXTVLCOPT:http-user-agent=SmartTV
-http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_PRODVIZHENIE/variant.m3u8
-
-#EXTINF:-1 group-title="Новости" tvg-id="ntv-belarus", НТВ-Беларусь
-http://194.158.222.36:6107
 
 #EXTINF:-1 group-title="Новости", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
@@ -131,7 +117,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="bst", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 
-#EXTINF:-1 group-title="Новости" tvg-id="vmeste-rf", Вместе-РФ HD
+#EXTINF:-1 group-title="Новости" tvg-id="vmeste-rf", Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="krym24", Крым 24
@@ -140,17 +126,8 @@ http://live24.1tvcrimea.ru/switcher.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="nts-sevastopol", НТС Севастополь
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Новости" tvg-id="ont-by", ОНТ
-https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-
-#EXTINF:-1 group-title="Новости" tvg-id="ont-by", ОНТ HD
-https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
-
 #EXTINF:-1 group-title="Новости" tvg-id="pervy-krymsky", Первый крымский
 http://live1.1tvcrimea.ru/1tvcrimea.m3u8
-
-#EXTINF:-1 group-title="Новости" tvg-id="simfer24", Симферополь 24
-https://simf.1tvcrimea.ru/simferopol24.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="stv-by", СТВ Беларусь
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
@@ -160,9 +137,6 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 
 #EXTINF:-1 group-title="Новости", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Новости", BBC World News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Кино" tvg-id="denpobedy", День Победы HD
