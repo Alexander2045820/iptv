@@ -30,14 +30,20 @@ http://77.232.131.211/Rossiya24/index.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные" tvg-id="otr", ОТР
-http://194.32.242.245/otr/index.m3u8
+#EXTINF:-1,ОТР
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=9
 
-#EXTINF:-1 group-title="Федеральные" tvg-id="tvcentr", ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1,ТВ Центр
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=10
 
-#EXTINF:-1 group-title="Федеральные" tvg-id="rentv", Рен ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=11
 
 #EXTINF:-1 group-title="Федеральные", Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
@@ -46,8 +52,10 @@ http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTGRP:Федеральные
 http://ott.server-iptv.live/107/video.m3u8?token=M4f082ab4c
 
-#EXTINF:-1 group-title="Федеральные", Домашний 
-https://mhd128.iptv2022.com/p/9dCmyTgyExM4R9TFygnXUA,1772827090/streaming/domashiyott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1,Домашний
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=14 
 
 #EXTINF:-1 group-title="Федеральные", ТВ3
 http://185.46.16.239:8000/TV3
@@ -61,11 +69,15 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="mir", Мир 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="Федеральные", ТНТ 
-http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=19
 
-#EXTINF:-1 group-title="Федеральные", Муз-ТВ
-http://45.11.139.43:8555/muz/index.m3u8
+#EXTINF:-1,МУЗ-ТВ
+#EXTGRP:Федеральные
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=20
 
 
 #EXTINF:-1 group-title="Кино" tvg-id="denpobedy", День Победы HD
