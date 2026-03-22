@@ -626,12 +626,6 @@ http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 http://217.25.80.16/Eda_HD/mono.m3u8
 
 
-#EXTINF:-1 group-title="Познавательные", 360°
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="Познавательные", 360° HD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-
 #EXTINF:-1 group-title="Познавательные", 365 дней
 http://158.101.222.193:88/georgia_play.php?id=365day
 
@@ -716,9 +710,6 @@ http://46.8.46.14/Pobeda/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Про бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Просвещение
-https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-
 #EXTINF:-1 group-title="Познавательные", Ратник
 http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
 
@@ -798,14 +789,8 @@ http://195.64.140.147:10147/147
 http://46.8.46.14/zoo/index.m3u8
 
 
-#EXTINF:-1 group-title="Религиозные", Союз
-http://31.148.48.15/Soyuz/index.m3u8
-
 #EXTINF:-1 group-title="Религиозные", Союз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-
-#EXTINF:-1 group-title="Религиозные", МузСоюз
-http://178.212.71.253:8000/play/43/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные", МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
@@ -817,23 +802,14 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 
 
-#EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-
-#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
+#EXTINF:-1 group-title="Спорт", Бокс ТВ 
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
 
 #EXTINF:-1 group-title="Спорт", Конный мир
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Спорт", Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matcharenahd/chunks.m3u8
-
-#EXTINF:-1 group-title="Спорт", Матч! Боец
-http://87.120.142.11:18000/Match!
 
 #EXTINF:-1 group-title="Спорт", Матч! Боец HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchboec/chunks.m3u8
@@ -844,29 +820,17 @@ http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://46.8.46.14/premier/index.m3u8
-
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchpremierhd/chunks.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://195.64.140.147:10099/99
 
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://188.190.222.53/Match_Futbol_1/index.m3u8
-
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol1hd/chunks.m3u8
 
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://188.190.222.53/Match_Futbol_2/index.m3u8
-
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol2hd/chunks.m3u8
-
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://188.190.222.53/Match_Futbol_3/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
 http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
@@ -896,23 +860,11 @@ http://91.194.191.241:8081/chid94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="la-minor", Музыка Live
 http://tvip.btk.teleos.ru:8081/chid435/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Музыка", Первый музыкальный
-http://hz1.teleport.cc/HLS/SD.m3u8
-
 #EXTINF:-1 group-title="Музыка", Первый музыкальный HD
 http://rtmp.one.by:1300
 
-#EXTINF:-1 group-title="Музыка", Первый музыкальный Россия
-http://rtmp.one.by:2200
-
-#EXTINF:-1 group-title="Музыка", Первый музыкальный Россия HD
-http://rtmp.one.by:2200
-
 #EXTINF:-1 group-title="Музыка", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Музыка", ТНТ Music
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
@@ -950,9 +902,6 @@ http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Этно
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 
-#EXTINF:-1 group-title="Музыка", Europa Plus TV
-http://195.64.140.147:10036/36
-
 #EXTINF:-1 group-title="Музыка", Europa Plus TV HD
 http://46.8.46.14/evropa/index.m3u8
 
@@ -973,9 +922,6 @@ http://213.169.39.30:5257
 
 #EXTINF:-1 group-title="Музыка", MTV Live
 http://190.102.246.93:9005/play/a01p
-
-#EXTINF:-1 group-title="Музыка", RU.TV
-http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 
 #EXTINF:-1 group-title="Музыка", RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
