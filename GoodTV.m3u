@@ -426,9 +426,6 @@ http://cdn.kubteltv.workers.dev/?ID=186
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=59
 
-#EXTINF:-1 group-title="Детские" tvg-id="multimania-lv", Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Детские", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
