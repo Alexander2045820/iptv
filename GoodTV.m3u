@@ -156,6 +156,36 @@ http://cdn.kubteltv.workers.dev/?ID=62
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=63
 
+#EXTINF:-1,Cinema
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=352
+
+#EXTINF:-1,Кинопоказ
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=414
+
+#EXTINF:-1,Русский Роман HD
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=355
+
+#EXTINF:-1,Русский Детектив HD
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=357
+
+#EXTINF:-1,Комедия
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=363
+
+#EXTINF:-1,НСТ
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=364
+
 #EXTINF:-1,Феникс Плюс Кино
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
@@ -170,21 +200,6 @@ http://cdn.kubteltv.workers.dev/?ID=77
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=105
-
-#EXTINF:-1,Дом Кино
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=131
-
-#EXTINF:-1,Кинеко
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=172
-
-#EXTINF:-1,Киноман
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=182
 
 #EXTINF:-1,Киноужас
 #EXTGRP:Кино
@@ -201,6 +216,26 @@ http://cdn.kubteltv.workers.dev/?ID=316
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=328
 
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=131
+
+#EXTINF:-1,Дом Кино HD
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=272
+
+#EXTINF:-1,Кинеко
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=172
+
+#EXTINF:-1,Киноман
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=182
+
 #EXTINF:-1,Блокбастер HD
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
@@ -211,10 +246,7 @@ http://cdn.kubteltv.workers.dev/?ID=219
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=255
 
-#EXTINF:-1,Дом Кино HD
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=272
+
 
 #EXTINF:-1,НТВ Хит
 #EXTGRP:Кино
@@ -255,36 +287,6 @@ http://cdn.kubteltv.workers.dev/?ID=299
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=300
-
-#EXTINF:-1,Cinema
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=352
-
-#EXTINF:-1,Кинопоказ
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=414
-
-#EXTINF:-1,Русский Роман HD
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=355
-
-#EXTINF:-1,Русский Детектив HD
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=357
-
-#EXTINF:-1,Комедия
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=363
-
-#EXTINF:-1,НСТ
-#EXTGRP:Кино
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=364
 
 #EXTINF:-1,Fan HD
 #EXTGRP:Кино
